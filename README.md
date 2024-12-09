@@ -1,4 +1,4 @@
-# GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images
+# Leveraging a Large Language Model to Predict Hospital Admissions of Emergency Department Patients
 
 **The repository contains code referred to the work:**
 
