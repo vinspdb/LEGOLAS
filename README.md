@@ -9,3 +9,15 @@
 
 Link to the datasets:
 https://physionet.org/content/mimicel-ed/2.1.0/
+
+# How to use:
+
+Prefix traces generation:
+```
+python -m main
+```
+Fine-tuning:
+
+```
+sbatch lauch_run_single
+```
