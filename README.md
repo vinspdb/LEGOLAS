@@ -2,7 +2,7 @@
 
 **The repository contains code referred to the work:**
 
-*Vincenzo Pasquadibisceglie, Vito Recchia, Annalisa Appice, Donato Malerba and Giuseppe Fiameni*
+*Vincenzo Pasquadibisceglie, Annalisa Appice, Donato Malerba and Giuseppe Fiameni*
 
 
 [*Leveraging a Large Language Model to Predict Hospital Admissions of Emergency Department Patients*]
