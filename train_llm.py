@@ -189,7 +189,6 @@ if __name__ == '__main__':
         tokenizer = AutoTokenizer.from_pretrained(weights_dir, truncation_side='left')
         model = AutoModel.from_pretrained(weights_dir)
         model = LongFormerMultiClassificationHeads(model)
-        model.load_state_dict(torch.load(model_name+'.pth'))
         model = model.to(device)
 
 
