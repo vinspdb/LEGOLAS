@@ -6,6 +6,7 @@
 
 
 [*Leveraging a Large Language Model to Predict Hospital Admissions of Emergency Department Patients*](https://www.sciencedirect.com/science/article/pii/S0957417425018445)
+
 Please cite our work if you find it useful for your research and work.
 
 ```
