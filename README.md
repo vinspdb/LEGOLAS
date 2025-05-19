@@ -19,7 +19,6 @@ issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2025.128224},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417425018445}
 }
-}
 ```
 
 Link to the datasets:
